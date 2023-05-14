@@ -1,5 +1,6 @@
 # ServiceBot
-Udacity RoboticSoftwareEngineer course 
+
+This project is mainly dedicated to the instructors involved through this excellent Udacity Robotic Software Engineer course 
 
 
 ## Project 1 - Build My World
@@ -20,5 +21,11 @@ To Open the Production world in Gazebo with a build in Interactive Plugin, then 
 gazebo ../world/MyProductionBuilding
 cd ../.. 
 ```
+
+One of the Images of the world.
+
+![Project1-BuildMyWorld/Images/1.jpg] 
+
+
 
 
