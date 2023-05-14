@@ -1,6 +1,6 @@
 <sdf version='1.7'>
   <world name='default'>
-    <plugin name='welcome_message' filename='libwelcome_message.so'/>
+    <plugin name='welcome_message' filename='../build/libwelcome_message.so'/>
     <model name='ground_plane'>
       <static>1</static>
       <link name='link'>
